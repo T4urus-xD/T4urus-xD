@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @T4urus-xD
 - 👀 I’m interested in be a freelancer;
 - 🌱 I’m currently learning PHP and C;
-- 💞️ I’m looking to collaborate on everyone who can be patient and want to teach something about what can I do;
+- 💞️ I’m looking to collaborate with everyone who can be patient and want to teach me, I'm here to learn at all;
 - 📫 How to reach me: send me a e-mail if you want someone to help you, but in first I need learn what you want to help;
 
 <!---
